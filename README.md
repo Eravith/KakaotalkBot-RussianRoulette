@@ -5,7 +5,7 @@
 
 게임규칙의 설명은 --> ?게임규칙 <-- 이 명령어로.
 
-
+모든 코드는 챗 지피티로 생성됨
 
 Legacy_kakao_russian_roulette_bot.js 파일: 초기 버전
 
